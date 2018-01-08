@@ -1,0 +1,118 @@
+﻿﻿@using Microsoft.AspNetCore.Identity
+@using FlightData.Models
+@inject SignInManager<AuthUser> SignInManager
+@inject UserManager<AuthUser> UserManager
+@inject RoleManager<ApplicationRole> RoleManager
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - TightFlight</title>
+        <link rel="stylesheet" href="~/css/bootstrap.min.css" />
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cookie">
+        <link rel="stylesheet" href="~/fonts/font-awesome.min.css">
+        <link rel="stylesheet" href="~/css/Pretty-Footer.css">
+        <link rel="stylesheet" href="~/css/custom.css">
+        <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <nav class="navbar navbar-inverse">
+        <div>
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a asp-controller="Home" asp-action="Index" class="navbar-brand navbar-link" style="font-weight: bold; font: normal 36px Cookie, cursive"><i class="fa fa-plane" aria-hidden="true" style="color: #3e94ec"></i> Midlands Fly</a>
+            </div>
+
+            <div class="navbar-collapse collapse navbar-left">
+                <ul class="nav navbar-nav">
+                    <li><a asp-controller="Home" asp-action="Index">Home</a></li>
+@if (SignInManager.IsSignedIn(User) && User.IsInRole("Admin"))
+{
+                    <li><a asp-controller="Flight" asp-action="Index">Flights</a></li>
+                    <li><a asp-controller="Plane" asp-action="Index">Planes</a></li>
+                    <li><a asp-controller="Employee" asp-action="Index">Employees</a></li>
+                    <li><a asp-controller="Maintenances" asp-action="Index">Maintenances</a></li>
+}
+else
+{
+
+}
+                </ul>
+            </div>
+            <div class="collapse navbar-collapse navbar-right">
+                <ul class="nav navbar-nav">
+@if (!SignInManager.IsSignedIn(User))
+{
+                    <li><a asp-controller="AuthUsers" asp-action="Login">Login</a></li>
+                    <li><a asp-controller="AuthUsers" asp-action="Register">Register</a></li>
+}
+else
+{
+                    <!--<li><a asp-controller="ApplicationRoles" asp-action="Index">Users Roles</a></li>-->
+                    <li><a asp-controller="AuthUsers" asp-action="Logout">Logout</a></li>
+}
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div>
+        @RenderBody()
+        <footer style="position: relative; margin: 20px 0 0 0; bottom: 0px">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 col-sm-6 footer-navigation">
+                        <h3><a href="#" style="color: #3e94ec"><i class="fa fa-plane" aria-hidden="true" style="color: #3e94ec"></i> Midlands Fly</a></h3>
+                        <p class="company-name">Midlands Fly © 2017</p>
+                    </div>
+                    <!--<div class="col-md-4 col-sm-6 footer-contacts">
+                        <div>
+                            <span class="fa fa-map-marker footer-contacts-icon"> </span>
+                            <p>21 Revolution Street, London, UK</p>
+                        </div>
+                        <div>
+                            <i class="fa fa-phone footer-contacts-icon"></i>
+                            <p class="footer-center-info email text-left"> +44 555 123456</p>
+                        </div>
+                        <div>
+                            <i class="fa fa-envelope footer-contacts-icon"></i>
+                            <p> <a href="#" target="_blank">support@midlandsfly.com</a></p>
+                        </div>
+                    </div>
+                    <div class="clearfix visible-sm-block"></div>
+                    <div class="col-md-4 footer-about">
+                        <h4>About the company</h4>
+                        <p>
+                            Established for over 20 years, we are the best and are able to meet both your passenger and Cargo need.
+                        </p>
+                        <div class="social-links social-icons"><a href="#"><i class="fa fa-facebook"></i></a><a href="#"><i class="fa fa-twitter"></i></a><a href="#"><i class="fa fa-google-plus"></i></a></div>
+                </div>-->
+            </div></div>
+        </footer>
+    </div>
+
+        <script src="~/lib/jquery/dist/jquery.js"></script>
+        <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+        <script src="~/js/site.js" asp-append-version="true"></script>
+        <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-2.2.0.min.js"
+                asp-fallback-src="~/lib/jquery/dist/jquery.min.js"
+                asp-fallback-test="window.jQuery"
+                crossorigin="anonymous"
+                integrity="sha384-K+ctZQ+LL8q6tP7I94W+qzQsfRV2a+AfHIi9k8z8l9ggpc8X+Ytst4yBo/hH+8Fk">
+        </script>
+        <script src="https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.7/bootstrap.min.js"
+                asp-fallback-src="~/lib/bootstrap/dist/js/bootstrap.min.js"
+                asp-fallback-test="window.jQuery && window.jQuery.fn && window.jQuery.fn.modal"
+                crossorigin="anonymous"
+                integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa">
+        </script>
+        <script src="~/js/site.min.js" asp-append-version="true"></script>
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

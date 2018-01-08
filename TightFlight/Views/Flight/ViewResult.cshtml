@@ -1,0 +1,45 @@
+﻿@model TightFlight.Models.Flight.FlightViewResult
+@{
+    ViewData["Title"] = "ViewResult";
+}
+
+<div class="body-content">
+    <div class="table-title">
+        <h3>Flight Details</h3>
+    </div>
+    <div style="font-size: 2em; color: #fff">
+        <span style="font-size: 1.2em">Details for Flight Number <b>#@Model.Id</b></span> <br />
+        <br/>
+        <div class="row">
+            <div class="col-md-3 col-sm-3">
+                <h2>From: <b style="color: #4cff00">@Model.Origin.ToUpper()</b></h2><b></b>
+                <p style="margin: 0px;">@Model.Departure.Substring(0, 10)</p>
+                <p>@Model.Departure.Substring(10, 4) @Model.Departure.Substring(18, 2)</p>
+            </div>
+            <div class="col-md-3 col-sm-3">
+                <br/>
+                <p class="fa fa-long-arrow-right right-arrow-icon" ></p>
+            </div>
+            <div class="col-md-3 col-sm-3">
+                <h2>To: <b style="color: #4cff00">@Model.Destination.ToUpper()</b></h2><b></b>
+                <p style="margin: 0px;">@Model.Arrival.Substring(0, 10)</p>
+                <p>@Model.Arrival.Substring(10, 4) @Model.Arrival.Substring(18, 2)</p>
+            </div>
+        </div>
+        <br/>
+        <i class="fa fa-plane" aria-hidden="true" style="color: #000"></i> Plane Model:  <b>@Model.Plane</b><br />
+        <p>Status: <b>@Model.Status</b></p><br/>
+       @if ((@Model.Status == "Yet to depart") && (@User.IsInRole("Admin") == false))
+       {
+            <div class="row">
+                <div class="col-md-6 col-sm-4">
+                    <p>Flight Total: <b>75.26£</b></p><br />
+                </div>
+                <div class="col-md-3 col-sm-4">
+                    <a asp-action="booking" asp-controller="Flight" class="btn btn-success" style="text-transform: uppercase; font-weight: bold; width: 50%">Book flight</a>
+                </div>
+            </div>
+        }
+        
+    </div>
+</div>

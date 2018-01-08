@@ -1,0 +1,32 @@
+﻿@model FlightData.Models.Plane
+<div class="body-content">
+    <p class="centre">Add a plane to the database</p>
+
+    <form asp-action="Add" asp-controller="Plane">
+
+        <label asp-for="Type"></label>
+        <select asp-for="Type">
+            <option value="1">Passenger</option>
+            <option value="2">Cargo</option>
+        </select>
+        <br />
+
+        <label asp-for="Manufacturer"></label>
+        <input asp-for="Manufacturer" placeholder="Manufacturer" required/>
+        <br />
+
+        <label asp-for="Model"></label>
+        <input asp-for="Model" placeholder="Model" required/>
+        <br />
+
+        <label asp-for="MaxCapacity"></label>
+        <input asp-for="MaxCapacity" placeholder="Maximum capacity" required/>
+        <br />
+
+        <label asp-for="Year"></label>
+        <input type="date" asp-for="Year" placeholder="Year of make" required/>
+        <br />
+
+        <input type="submit" />
+    </form>
+</div>

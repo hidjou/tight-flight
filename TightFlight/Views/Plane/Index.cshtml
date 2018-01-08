@@ -1,0 +1,52 @@
+﻿@model TightFlight.Models.Plane.PlaneIndexModel
+
+<div class="body-content">
+    <div class="table-title">
+        <h3>Company owned planes</h3>
+    </div>
+    <div class="centre">
+        <a asp-controller="Plane" asp-action="Create" class="btn btn-success">Add plane</a>
+    </div>
+    <div id="planesTable">
+        <table class="table-fill" id="planeIndexTable">
+            <thead>
+                <tr>
+                    <th class="text-left">Number</th>
+                    <th class="text-left">Identifier</th>
+                    <th class="text-left">Type</th>
+                    <th>Max Capacity (Tons/Passengers)</th>
+                    <th>Manufacturer</th>
+                    <th>Model</th>
+                    <th>Year of make</th>
+                    <th>Status</th>
+                    <th>Flying hours</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model.Planes.Count() > 0)
+                {
+                    @foreach (var plane in Model.Planes)
+                    {
+                        <tr class="planeRow">
+                            <td>@plane.Id</td>
+                            <td>@plane.Identifier</td>
+                            <td>@plane.Type</td>
+                            <td>@plane.MaxCapacity</td>
+                            <td>@plane.Manufacturer</td>
+                            <td>@plane.Model</td>
+                            <td>@plane.Year</td>
+                            <td>@plane.Status</td>
+                            <td>@plane.FlyingHours</td>
+                            <td>
+                                <a asp-controller="Plane" asp-action="Edit" asp-route-id="@plane.Id" class="btn btn-warning">Edit</a>
+                                <a asp-controller="Plane" asp-action="Remove" asp-route-id="@plane.Id" class="btn btn-danger">Delete</a>
+                            </td>
+                        </tr>
+                    }
+                }
+                
+            </tbody>
+        </table>
+    </div>
+</div>

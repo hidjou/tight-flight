@@ -1,0 +1,24 @@
+﻿@model ApplicationRoleViewModel
+@using FlightData.Models
+@{
+    ViewData["Title"] = "Add/Update Role";
+}
+
+<form asp-action="AddEditApplicationRole" role="form">
+    <div class="form-horizontal">
+        <div class="row">
+            <div class="form-group">
+                <label asp-for="RoleName" class="control-label"></label>
+                <input asp-for="RoleName" class="form-control" required/>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description" class="control-label"></label>
+                <input asp-for="Description" class="form-control" required/>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create/Update" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+</form>
+

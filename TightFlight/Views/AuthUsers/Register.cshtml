@@ -1,0 +1,36 @@
+﻿@model FlightData.Models.Register
+@{
+    ViewData["Title"] = "Register";
+}
+
+<div class="body-content">
+    <h2>Register</h2>
+
+
+    <form method="post" asp-controller="AuthUsers" asp-action="Register">
+        <div asp-validation-summary="ModelOnly"></div>
+
+        <div>
+            <label asp-for="Username">Username</label>
+            <input asp-for="Username" required/>
+            <span asp-validation-for="Username"></span>
+        </div>
+
+        <div>
+            <label asp-for="Password">Password</label>
+            <input asp-for="Password" required/>
+            <span asp-validation-for="Password"></span>
+        </div>
+
+        <div>
+            <label asp-for="ConfirmPassword">Confirm Password</label>
+            <input asp-for="ConfirmPassword" required/>
+            <span asp-validation-for="ConfirmPassword"></span>
+        </div>
+
+        <div>
+            <input type="submit" value="Register" />
+        </div>
+
+    </form>
+</div>

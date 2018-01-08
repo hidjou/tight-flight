@@ -1,0 +1,45 @@
+﻿@model IEnumerable<ApplicationRoleListViewModel>
+@using FlightData.Models
+@{
+    ViewData["Title"] = "View Roles";
+}
+
+<div class="top-buffer"></div>
+<div class="panel panel-primary">
+    <div class="panel-heading panel-head">Application Roles</div>
+    <div class="panel-body">
+        <div class="btn-group">
+            <a id="createRoleModal" asp-action="AddEditApplicationRole" class="btn btn-primary">
+                <i class="glyphicon glyphicon-plus"></i>  Add Role
+            </a>
+        </div>
+        <div class="top-buffer"></div>
+        <table class="table table-bordered table-striped table-condensed">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Description</th>
+                    <!--<th>Action</th>-->
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.RoleName</td>
+                        <td>@item.Description</td>
+                        <!--<td>
+                            <a id="AddEditApplicationRoleModal" asp-action="AddEditApplicationRole" asp-route-id="@item.Id"
+                               class="btn btn-info">
+                                <i class="glyphicon glyphicon-pencil"></i>  Edit
+                            </a>
+                            <a id="DeleteApplicationRoleModal" asp-action="DeleteApplicationRole" asp-route-id="@item.Id" class="btn btn-danger">
+                                <i class="glyphicon glyphicon-trash"></i>  Delete
+                            </a>
+                        </td>-->
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

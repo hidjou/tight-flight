@@ -1,0 +1,50 @@
+﻿﻿@using Microsoft.AspNetCore.Identity
+@using FlightData.Models
+@model TightFlight.Models.Home.SearchModelIndex
+@inject SignInManager<AuthUser> SignInManager
+@inject UserManager<AuthUser> UserManager
+@inject RoleManager<ApplicationRole> RoleManager
+@{
+    ViewData["Title"] = "Home Page";
+    var iuser = UserManager.GetUserAsync(User);
+}
+<link rel="stylesheet" href="~/css/homeform.css" />
+<div id="Airline" class="container-fluid">
+    <div class="jumbotron">
+        <h1><strong>Midlands Fly</strong></h1>
+        <p><i class="fa fa-plane" aria-hidden="true"></i> Start planning your next trip</p>
+        <form class="go-bottom" method="get" asp-action="SearchResults" asp-controller="Flight">
+            <datalist id="searchdatalist">
+                @if (Model.Cities.Count() > 0)
+                {
+                    @foreach (var city in Model.Cities)
+                    {
+                        <option value="@city.City"></option>
+                    }
+                }
+            </datalist>
+
+            <div style="margin-bottom: 10px">
+                <input type="text" name="From" list="searchdatalist" class="form-control" asp-for="From" style="color: #000!important" placeholder="Departure Location" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Departure Location'" required>
+
+                <label asp-for="From" style="color: #fff!important">Departure Location</label>
+            </div>
+
+            <div style="margin-bottom: 30px">
+                <input type="text" name="To" list="searchdatalist" class="form-control" asp-for="To" style="color: #000!important" placeholder="Arrival Location" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Arrival Location'" required>
+                <label asp-for="To" style="color: #fff!important">Arrival Location</label>
+            </div>
+
+            <div>
+                <button class="btn btn-primary Button">Search Flights</button>
+            </div>
+        </form>
+    </div>
+</div>
+@*<div>
+       @Encryptor.Encrypt("plm")
+        <br />
+       @Encryptor.Decrypt("YYxnmJJxs++Rxql7YBYG+g== ")
+        <br />
+       @Encryptor.Decrypt(Encryptor.Encrypt("plm"))
+    </div>*@

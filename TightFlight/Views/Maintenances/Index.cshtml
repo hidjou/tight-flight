@@ -1,0 +1,36 @@
+﻿@model TightFlight.Models.Maintenance.MaintenanceIndex
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="body-content">
+    <div class="table-title">
+        <h3>Maintenances operated</h3>
+    </div>
+
+    <table class="table-fill">
+        <thead>
+            <tr>
+                <th>Date</th>
+                <th>Maintenance Type</th>
+                <th>Plane</th>
+                <th>Employees Assigned</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model.Maintenances.Count() > 0)
+            {
+                @foreach (var main in Model.Maintenances)
+                {
+                    <tr>
+                        <td>@main.Date</td>
+                        <td>@main.MaintenanceType</td>
+                        <td>@main.PlaneModel (@main.PlaneType)</td>
+                        <td>@main.EmployeeName</td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+
+</div>

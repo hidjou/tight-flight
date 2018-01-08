@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "Booking";
+}
+<div class="body-content">
+    <h2 class="centre">Adult passenger details:</h2>
+
+    <form asp-action="Done" asp-controller="Flight">
+
+        <label>Title</label>
+        <select>
+            <option>Mr</option>
+            <option>Ms</option>
+            <option>Dr</option>
+        </select>
+        <br />
+
+        <label>First Name*<span>(As shown in your passport)</span></label>
+        <input placeholder="First Name" required />
+        <br />
+
+        <label>Last Name*<span>(As shown in your passport)</span></label>
+        <input placeholder="Last Name" required />
+        <br />
+
+        <label>Date of birth</label>
+        <input type="date" required />
+        <br />
+
+        <input type="submit" />
+    </form>
+</div>

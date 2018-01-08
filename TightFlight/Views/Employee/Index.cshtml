@@ -1,0 +1,46 @@
+﻿@model TightFlight.Models.Employee.EmployeeIndexModel
+
+<div class="body-content" id="employees">
+    <div class="table-title">
+        <h3>Employees hired by midlands fly</h3>
+    </div>
+    <div class="centre">
+        <a asp-area="" asp-controller="Employee" asp-action="Create" class="btn btn-success">Add employee</a>
+    </div>
+    <div id="employeeTable">
+        <table class="table-fill" id="planeIndexTable">
+            <thead>
+                <tr>
+                    <th>First name</th>
+                    <th>Last name</th>
+                    <th>Job</th>
+                    <th>Employee number</th>
+                    <th>Status</th>
+                    <th>Total hours</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model.Employees.Count() > 0)
+                {
+                    @foreach (var employee in Model.Employees)
+                    {
+                        <tr class="employeeRow">
+                            <td>@employee.FirstName</td>
+                            <td>@employee.LastName</td>
+                            <td>@employee.Job</td>
+                            <td>@employee.EmployeeNumber</td>
+                            <td>@employee.Status</td>
+                            <td>@employee.TotalHours</td>
+                            <td>
+                                <a asp-controller="Employee" asp-action="Edit" asp-route-id="@employee.Id" class="btn btn-warning">Edit</a>
+                                <a asp-controller="Employee" asp-action="Remove" asp-route-id="@employee.Id" class="btn btn-danger">Delete</a>
+                            </td>
+                        </tr>
+                    }
+                }
+
+            </tbody>
+        </table>
+    </div>
+</div>

@@ -1,0 +1,46 @@
+﻿@model TightFlight.Models.Flight.FlightIndexModel
+<div class="body-content">
+    <div class="table-title">
+        <h3>Airline flights</h3>
+    </div>
+    <div class="centre">
+        <a asp-controller="Flight" asp-action="Create" class="btn btn-success">Add flight</a>
+    </div>
+    <div>
+        <table class="table-fill">
+            <thead>
+                <tr>
+                    <th>Number</th>
+                    <th>Origin</th>
+                    <th>Destination</th>
+                    <th>Departure</th>
+                    <th>Arrival</th>
+                    <th>Duration (Hours)</th>
+                    <th>Plane</th>
+                    <th>Status</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model.Flights.Count() > 0)
+                {
+                    @foreach (var flight in Model.Flights)
+                    {
+                        <tr class="planeRow">
+                            <td>@flight.Id</td>
+                            <td>@flight.Origin</td>
+                            <td>@flight.Destination</td>
+                            <td>@flight.Departure</td>
+                            <td>@flight.Arrival</td>
+                            <td>@flight.Duration</td>
+                            <td>@flight.Plane</td>
+                            <td>@flight.Status</td>
+                            <td><a asp-controller="Flight" asp-action="ViewResult" asp-route-id="@flight.Id" class="btn btn-info">View Flight</a></td>
+                        </tr>
+                    }
+                }
+
+            </tbody>
+        </table>
+    </div>
+</div>

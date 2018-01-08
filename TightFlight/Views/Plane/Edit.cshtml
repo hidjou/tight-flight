@@ -1,0 +1,38 @@
+﻿@model TightFlight.Models.Plane.PlaneFormModel
+<div class="body-content">
+    <p class="centre">Edit a plane on the database</p>
+
+    <form asp-action="Update" asp-controller="Plane">
+
+        <label asp-for="Type"></label>
+        <select asp-for="Type" value="@Model.Type">
+            <option value="1">Passenger</option>
+            <option value="2">Cargo</option>
+        </select>
+        <br />
+
+        <label asp-for="Manufacturer"></label>
+        <input asp-for="Manufacturer" value="@Model.Manufacturer" required/>
+        <br />
+
+        <label asp-for="Model"></label>
+        <input asp-for="Model" value="@Model.Model" required/>
+        <br />
+
+        <label asp-for="MaxCapacity"></label>
+        <input asp-for="MaxCapacity" value="@Model.MaxCapacity" required/>
+        <br />
+
+        <input asp-for="Identifier" type="hidden" value="@Model.Identifier" />
+        <input asp-for="Id" type="hidden" value="@Model.Id" required/>
+
+        <label asp-for="Year"></label>
+        <input asp-for="Year" value="@Model.Year" required/>
+
+        <label asp-for="FlyingHours"></label>
+        <input asp-for="FlyingHours" value="@Model.FlyingHours" required/>
+        <br />
+
+        <input type="submit" />
+    </form>
+</div>

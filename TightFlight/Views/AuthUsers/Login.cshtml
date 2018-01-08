@@ -1,0 +1,31 @@
+﻿@model FlightData.Models.Login
+@{
+    ViewData["Title"] = "Login";
+}
+
+<div class="body-content">
+    <h2>Login</h2>
+
+
+    <form method="post" asp-controller="AuthUsers" asp-action="Login">
+        <div asp-validation-summary="ModelOnly"></div>
+
+        <div>
+            <input type="hidden" asp-for="RememberMe" value="true" />
+        </div>
+
+        <div>
+            <label asp-for="Username">Username</label>
+            <input asp-for="Username" required/>
+            <span asp-validation-for="Username"></span>
+        </div>
+
+        <div>
+            <label asp-for="Password">Password</label>
+            <input asp-for="Password" required/>
+            <span asp-validation-for="Password"></span>
+        </div>
+        <input type="submit" value="Login" />
+
+    </form>
+</div>

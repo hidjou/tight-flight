@@ -1,0 +1,13 @@
+﻿@model string
+@using FlightData.Models
+@{
+    ViewData["Title"] = "Delete Role";
+}
+
+<form asp-action="DeleteApplicationRole" role="form">
+    <div class="form-horizontal">
+        Are you want to delete @Model?
+        <input type="submit" value="Delete" class="btn btn-default" />
+    </div>
+</form>
+

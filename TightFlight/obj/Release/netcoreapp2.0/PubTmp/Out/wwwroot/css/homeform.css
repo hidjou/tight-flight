@@ -1,0 +1,95 @@
+form {
+    margin: 20px;
+}
+
+form > div {
+    position: relative !important;
+    overflow: hidden !important;
+}
+
+form input, form textarea {
+    width: 100% !important;
+    border: 1px solid gray !important;
+    background: #fff !important;
+    color: #000 !important;
+    position: relative !important;
+    top: 0 !important;
+    left: 0 !important;
+    z-index: 1 !important;
+    padding: 8px 12px !important;
+    outline: 0 !important;
+    height: 45px !important;
+}
+
+    form input:valid, form textarea:valid {
+        color: #000 !important;
+    }
+
+    form input:focus, form textarea:focus {
+        border-color: #4582ec !important;
+    }
+
+        form input:focus + label, form textarea:focus + label {
+            background: #4582ec !important;
+            color: #000 !important;
+            font-size: 70% !important;
+            padding: 1px 6px !important;
+            z-index: 2 !important;
+            text-transform: uppercase !important;
+        }
+
+form label {
+    transition: background 0.2s, color 0.2s, top 0.2s, bottom 0.2s, right 0.2s, left 0.2s !important;
+    position: absolute !important;
+    color: #999 !important;
+    padding: 7px 6px !important;
+}
+
+form textarea {
+    display: block !important;
+    resize: vertical !important;
+}
+
+form.go-bottom input, form.go-bottom textarea {
+    padding: 12px 12px 12px 12px !important;
+}
+
+form.go-bottom label {
+    top: 0 !important;
+    bottom: 0 !important;
+    left: 0 !important;
+    width: 100% !important;
+}
+
+form.go-bottom input:focus, form.go-bottom textarea:focus {
+    padding: 4px 6px 20px 6px !important;
+}
+
+    form.go-bottom input:focus + label, form.go-bottom textarea:focus + label {
+        top: 100% !important;
+        margin-top: -16px !important;
+    }
+
+form.go-right label {
+    top: 2px !important;
+    right: 100% !important;
+    width: 100% !important;
+    margin-right: -100% !important;
+    bottom: 2px !important;
+}
+
+form.go-right input:focus + label, form.go-right textarea:focus + label {
+    right: 0 !important;
+    margin-right: 0 !important;
+    width: 40% !important;
+    padding-top: 5px !important;
+}
+
+    form button {
+        width: 100%;
+        text-transform: uppercase;
+        font-weight: bold !important;
+    }
+.jumbotron p {
+     color: #000 !important;
+}

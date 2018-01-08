@@ -1,0 +1,29 @@
+﻿@model TightFlight.Models.Employee.EmployeeFormModel
+
+<div class="body-content">
+    <p class="centre">Add an employee to the database</p>
+
+    <form asp-action="Update" asp-controller="Employee">
+
+        <label asp-for="Job"></label>
+        <select asp-for="Job" value="@Model.Job">
+            <option value="1">Flight-deck crew</option>
+            <option value="2">Cabin crew</option>
+            <option value="3">Ground crew</option>
+        </select>
+        <br />
+
+        <label asp-for="FirstName"></label>
+        <input asp-for="FirstName" value="@Model.FirstName" required/>
+        <br />
+
+        <label asp-for="LastName"></label>
+        <input asp-for="LastName" value="@Model.LastName" required/>
+        <br />
+
+        <input asp-for="Id" value="@Model.Id" type="hidden" />
+        <input asp-for="EmployeeNumber" type="hidden" value="@Model.EmployeeNumber" required/>
+        <br />
+        <input type="submit" />
+    </form>
+</div>

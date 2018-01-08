@@ -1,0 +1,25 @@
+﻿@model FlightData.Models.Flight
+<div class="body-content">
+    <p class="centre">Add a flight to the database</p>
+
+    <form asp-action="Add" asp-controller="Flight">
+
+        <label asp-for="Origin">Origin</label>
+        <input asp-for="Origin" placeholder="Origin" required/>
+        <br />
+
+        <label asp-for="Destination">Destination</label>
+        <input asp-for="Destination" placeholder="Destination" required/>
+        <br />
+
+        <label asp-for="Departure"></label>
+        <input asp-for="Departure" placeholder="Departure Time" required/>
+        <br />
+
+        <label asp-for="PlaneId"></label>
+        <input asp-for="PlaneId" placeholder="PlaneId" required/>
+        <br />
+
+        <input type="submit" />
+    </form>
+</div>

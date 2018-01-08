@@ -1,0 +1,315 @@
+C:\Users\hidjou\Desktop\TightFlight\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.deps.json
+C:\Users\hidjou\Desktop\TightFlight\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.runtimeconfig.json
+C:\Users\hidjou\Desktop\TightFlight\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.runtimeconfig.dev.json
+C:\Users\hidjou\Desktop\TightFlight\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.dll
+C:\Users\hidjou\Desktop\TightFlight\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.csprojResolveAssemblyReference.cache
+C:\Users\hidjou\Desktop\TightFlight\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.csproj.CoreCompileInputs.cache
+C:\Users\hidjou\Desktop\TightFlight\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.AssemblyInfoInputs.cache
+C:\Users\hidjou\Desktop\TightFlight\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.AssemblyInfo.cs
+C:\Users\hidjou\Desktop\TightFlight\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.pdb
+C:\Users\hidjou\Desktop\TightFlight\TightFlight\bin\Debug\netcoreapp2.0\FlightData.dll
+C:\Users\hidjou\Desktop\TightFlight\TightFlight\bin\Debug\netcoreapp2.0\FlightData.pdb
+C:\Users\hidjou\Desktop\TightFlight\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.dll
+C:\Users\hidjou\Desktop\TightFlight\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.pdb
+C:\Users\hidjou\Desktop\TightFlight\TightFlight\bin\Debug\netcoreapp2.0\FlightServices.dll
+C:\Users\hidjou\Desktop\TightFlight\TightFlight\bin\Debug\netcoreapp2.0\FlightServices.pdb
+C:\Users\Hidjou\Desktop\Masters\TightFlight v2\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.deps.json
+C:\Users\Hidjou\Desktop\Masters\TightFlight v2\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.runtimeconfig.json
+C:\Users\Hidjou\Desktop\Masters\TightFlight v2\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.runtimeconfig.dev.json
+C:\Users\Hidjou\Desktop\Masters\TightFlight v2\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.dll
+C:\Users\Hidjou\Desktop\Masters\TightFlight v2\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.pdb
+C:\Users\Hidjou\Desktop\Masters\TightFlight v2\TightFlight\bin\Debug\netcoreapp2.0\FlightData.dll
+C:\Users\Hidjou\Desktop\Masters\TightFlight v2\TightFlight\bin\Debug\netcoreapp2.0\FlightServices.dll
+C:\Users\Hidjou\Desktop\Masters\TightFlight v2\TightFlight\bin\Debug\netcoreapp2.0\FlightData.pdb
+C:\Users\Hidjou\Desktop\Masters\TightFlight v2\TightFlight\bin\Debug\netcoreapp2.0\FlightServices.pdb
+C:\Users\Hidjou\Desktop\Masters\TightFlight v2\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.csprojResolveAssemblyReference.cache
+C:\Users\Hidjou\Desktop\Masters\TightFlight v2\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.csproj.CoreCompileInputs.cache
+C:\Users\Hidjou\Desktop\Masters\TightFlight v2\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.AssemblyInfoInputs.cache
+C:\Users\Hidjou\Desktop\Masters\TightFlight v2\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.AssemblyInfo.cs
+C:\Users\Hidjou\Desktop\Masters\TightFlight v2\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.dll
+C:\Users\Hidjou\Desktop\Masters\TightFlight v2\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.pdb
+C:\Users\hidjou\Desktop\TightFlight v2\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.deps.json
+C:\Users\hidjou\Desktop\TightFlight v2\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.runtimeconfig.json
+C:\Users\hidjou\Desktop\TightFlight v2\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.runtimeconfig.dev.json
+C:\Users\hidjou\Desktop\TightFlight v2\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.dll
+C:\Users\hidjou\Desktop\TightFlight v2\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.pdb
+C:\Users\hidjou\Desktop\TightFlight v2\TightFlight\bin\Debug\netcoreapp2.0\FlightData.dll
+C:\Users\hidjou\Desktop\TightFlight v2\TightFlight\bin\Debug\netcoreapp2.0\FlightServices.dll
+C:\Users\hidjou\Desktop\TightFlight v2\TightFlight\bin\Debug\netcoreapp2.0\FlightData.pdb
+C:\Users\hidjou\Desktop\TightFlight v2\TightFlight\bin\Debug\netcoreapp2.0\FlightServices.pdb
+C:\Users\hidjou\Desktop\TightFlight v2\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.csprojResolveAssemblyReference.cache
+C:\Users\hidjou\Desktop\TightFlight v2\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.csproj.CoreCompileInputs.cache
+C:\Users\hidjou\Desktop\TightFlight v2\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.AssemblyInfoInputs.cache
+C:\Users\hidjou\Desktop\TightFlight v2\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.AssemblyInfo.cs
+C:\Users\hidjou\Desktop\TightFlight v2\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.dll
+C:\Users\hidjou\Desktop\TightFlight v2\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.pdb
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.3 - adding planes\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.deps.json
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.3 - adding planes\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.runtimeconfig.json
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.3 - adding planes\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.runtimeconfig.dev.json
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.3 - adding planes\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.dll
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.3 - adding planes\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.pdb
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.3 - adding planes\TightFlight\bin\Debug\netcoreapp2.0\FlightData.dll
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.3 - adding planes\TightFlight\bin\Debug\netcoreapp2.0\FlightServices.dll
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.3 - adding planes\TightFlight\bin\Debug\netcoreapp2.0\FlightData.pdb
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.3 - adding planes\TightFlight\bin\Debug\netcoreapp2.0\FlightServices.pdb
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.3 - adding planes\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.csprojResolveAssemblyReference.cache
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.3 - adding planes\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.csproj.CoreCompileInputs.cache
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.3 - adding planes\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.AssemblyInfoInputs.cache
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.3 - adding planes\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.AssemblyInfo.cs
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.3 - adding planes\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.dll
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.3 - adding planes\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.pdb
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.4 - Editing planes\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.deps.json
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.4 - Editing planes\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.runtimeconfig.json
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.4 - Editing planes\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.runtimeconfig.dev.json
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.4 - Editing planes\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.dll
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.4 - Editing planes\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.pdb
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.4 - Editing planes\TightFlight\bin\Debug\netcoreapp2.0\FlightData.dll
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.4 - Editing planes\TightFlight\bin\Debug\netcoreapp2.0\FlightServices.dll
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.4 - Editing planes\TightFlight\bin\Debug\netcoreapp2.0\FlightData.pdb
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.4 - Editing planes\TightFlight\bin\Debug\netcoreapp2.0\FlightServices.pdb
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.4 - Editing planes\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.csprojResolveAssemblyReference.cache
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.4 - Editing planes\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.csproj.CoreCompileInputs.cache
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.4 - Editing planes\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.AssemblyInfoInputs.cache
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.4 - Editing planes\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.AssemblyInfo.cs
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.4 - Editing planes\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.dll
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.4 - Editing planes\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.pdb
+C:\Users\hidjou\Desktop\bestteam\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.deps.json
+C:\Users\hidjou\Desktop\bestteam\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.runtimeconfig.json
+C:\Users\hidjou\Desktop\bestteam\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.runtimeconfig.dev.json
+C:\Users\hidjou\Desktop\bestteam\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.dll
+C:\Users\hidjou\Desktop\bestteam\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.pdb
+C:\Users\hidjou\Desktop\bestteam\TightFlight\bin\Debug\netcoreapp2.0\FlightData.dll
+C:\Users\hidjou\Desktop\bestteam\TightFlight\bin\Debug\netcoreapp2.0\FlightServices.dll
+C:\Users\hidjou\Desktop\bestteam\TightFlight\bin\Debug\netcoreapp2.0\FlightData.pdb
+C:\Users\hidjou\Desktop\bestteam\TightFlight\bin\Debug\netcoreapp2.0\FlightServices.pdb
+C:\Users\hidjou\Desktop\bestteam\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.csprojResolveAssemblyReference.cache
+C:\Users\hidjou\Desktop\bestteam\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.csproj.CoreCompileInputs.cache
+C:\Users\hidjou\Desktop\bestteam\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.AssemblyInfoInputs.cache
+C:\Users\hidjou\Desktop\bestteam\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.AssemblyInfo.cs
+C:\Users\hidjou\Desktop\bestteam\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.dll
+C:\Users\hidjou\Desktop\bestteam\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.pdb
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.6 - Wired edit\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.deps.json
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.6 - Wired edit\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.runtimeconfig.json
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.6 - Wired edit\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.runtimeconfig.dev.json
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.6 - Wired edit\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.dll
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.6 - Wired edit\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.pdb
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.6 - Wired edit\TightFlight\bin\Debug\netcoreapp2.0\FlightData.dll
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.6 - Wired edit\TightFlight\bin\Debug\netcoreapp2.0\FlightServices.dll
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.6 - Wired edit\TightFlight\bin\Debug\netcoreapp2.0\FlightData.pdb
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.6 - Wired edit\TightFlight\bin\Debug\netcoreapp2.0\FlightServices.pdb
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.6 - Wired edit\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.csprojResolveAssemblyReference.cache
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.6 - Wired edit\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.csproj.CoreCompileInputs.cache
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.6 - Wired edit\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.AssemblyInfoInputs.cache
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.6 - Wired edit\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.AssemblyInfo.cs
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.6 - Wired edit\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.dll
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.6 - Wired edit\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.pdb
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.8 - Adding employees\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.deps.json
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.8 - Adding employees\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.runtimeconfig.json
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.8 - Adding employees\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.runtimeconfig.dev.json
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.8 - Adding employees\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.dll
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.8 - Adding employees\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.pdb
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.8 - Adding employees\TightFlight\bin\Debug\netcoreapp2.0\FlightData.dll
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.8 - Adding employees\TightFlight\bin\Debug\netcoreapp2.0\FlightServices.dll
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.8 - Adding employees\TightFlight\bin\Debug\netcoreapp2.0\FlightData.pdb
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.8 - Adding employees\TightFlight\bin\Debug\netcoreapp2.0\FlightServices.pdb
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.8 - Adding employees\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.csprojResolveAssemblyReference.cache
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.8 - Adding employees\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.csproj.CoreCompileInputs.cache
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.8 - Adding employees\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.AssemblyInfoInputs.cache
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.8 - Adding employees\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.AssemblyInfo.cs
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.8 - Adding employees\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.dll
+C:\Users\Hidjou\Desktop\NET Core\TightFlight v0.2.8 - Adding employees\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.pdb
+C:\Users\gfxsr\Desktop\TightFlight v0.2.3 - adding planes\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.csprojResolveAssemblyReference.cache
+C:\Users\gfxsr\Desktop\TightFlight v0.2.3 - adding planes\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.csproj.CoreCompileInputs.cache
+C:\Users\gfxsr\Desktop\TightFlight v0.2.3 - adding planes\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.AssemblyInfoInputs.cache
+C:\Users\gfxsr\Desktop\TightFlight v0.2.3 - adding planes\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.AssemblyInfo.cs
+C:\Users\gfxsr\Desktop\TightFlight v0.2.3 - adding planes\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.dll
+C:\Users\gfxsr\Desktop\TightFlight v0.2.3 - adding planes\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.pdb
+C:\Users\gfxsr\Desktop\TightFlight v0.2.3 - adding planes\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.deps.json
+C:\Users\gfxsr\Desktop\TightFlight v0.2.3 - adding planes\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.runtimeconfig.json
+C:\Users\gfxsr\Desktop\TightFlight v0.2.3 - adding planes\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.runtimeconfig.dev.json
+C:\Users\gfxsr\Desktop\TightFlight v0.2.3 - adding planes\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.dll
+C:\Users\gfxsr\Desktop\TightFlight v0.2.3 - adding planes\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.pdb
+C:\Users\gfxsr\Desktop\TightFlight v0.2.3 - adding planes\TightFlight\bin\Debug\netcoreapp2.0\FlightData.dll
+C:\Users\gfxsr\Desktop\TightFlight v0.2.3 - adding planes\TightFlight\bin\Debug\netcoreapp2.0\FlightServices.dll
+C:\Users\gfxsr\Desktop\TightFlight v0.2.3 - adding planes\TightFlight\bin\Debug\netcoreapp2.0\FlightData.pdb
+C:\Users\gfxsr\Desktop\TightFlight v0.2.3 - adding planes\TightFlight\bin\Debug\netcoreapp2.0\FlightServices.pdb
+C:\Users\Hidjou\Desktop\Raul's branch\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.csprojResolveAssemblyReference.cache
+C:\Users\Hidjou\Desktop\Raul's branch\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.csproj.CoreCompileInputs.cache
+C:\Users\Hidjou\Desktop\Raul's branch\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.AssemblyInfoInputs.cache
+C:\Users\Hidjou\Desktop\Raul's branch\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.AssemblyInfo.cs
+C:\Users\Hidjou\Desktop\Raul's branch\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.dll
+C:\Users\Hidjou\Desktop\Raul's branch\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.pdb
+C:\Users\Hidjou\Desktop\Raul's branch\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.deps.json
+C:\Users\Hidjou\Desktop\Raul's branch\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.runtimeconfig.json
+C:\Users\Hidjou\Desktop\Raul's branch\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.runtimeconfig.dev.json
+C:\Users\Hidjou\Desktop\Raul's branch\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.dll
+C:\Users\Hidjou\Desktop\Raul's branch\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.pdb
+C:\Users\Hidjou\Desktop\Raul's branch\TightFlight\bin\Debug\netcoreapp2.0\FlightData.dll
+C:\Users\Hidjou\Desktop\Raul's branch\TightFlight\bin\Debug\netcoreapp2.0\FlightServices.dll
+C:\Users\Hidjou\Desktop\Raul's branch\TightFlight\bin\Debug\netcoreapp2.0\FlightData.pdb
+C:\Users\Hidjou\Desktop\Raul's branch\TightFlight\bin\Debug\netcoreapp2.0\FlightServices.pdb
+C:\Users\Hidjou\Desktop\TightFlight 0.2.5 - Flying hours\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.deps.json
+C:\Users\Hidjou\Desktop\TightFlight 0.2.5 - Flying hours\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.runtimeconfig.json
+C:\Users\Hidjou\Desktop\TightFlight 0.2.5 - Flying hours\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.runtimeconfig.dev.json
+C:\Users\Hidjou\Desktop\TightFlight 0.2.5 - Flying hours\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.dll
+C:\Users\Hidjou\Desktop\TightFlight 0.2.5 - Flying hours\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.pdb
+C:\Users\Hidjou\Desktop\TightFlight 0.2.5 - Flying hours\TightFlight\bin\Debug\netcoreapp2.0\FlightData.dll
+C:\Users\Hidjou\Desktop\TightFlight 0.2.5 - Flying hours\TightFlight\bin\Debug\netcoreapp2.0\FlightServices.dll
+C:\Users\Hidjou\Desktop\TightFlight 0.2.5 - Flying hours\TightFlight\bin\Debug\netcoreapp2.0\FlightData.pdb
+C:\Users\Hidjou\Desktop\TightFlight 0.2.5 - Flying hours\TightFlight\bin\Debug\netcoreapp2.0\FlightServices.pdb
+C:\Users\Hidjou\Desktop\TightFlight 0.2.5 - Flying hours\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.csprojResolveAssemblyReference.cache
+C:\Users\Hidjou\Desktop\TightFlight 0.2.5 - Flying hours\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.csproj.CoreCompileInputs.cache
+C:\Users\Hidjou\Desktop\TightFlight 0.2.5 - Flying hours\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.AssemblyInfoInputs.cache
+C:\Users\Hidjou\Desktop\TightFlight 0.2.5 - Flying hours\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.AssemblyInfo.cs
+C:\Users\Hidjou\Desktop\TightFlight 0.2.5 - Flying hours\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.dll
+C:\Users\Hidjou\Desktop\TightFlight 0.2.5 - Flying hours\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.pdb
+C:\Users\Hidjou\Desktop\TightFlight v0.3.2 - Login\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.deps.json
+C:\Users\Hidjou\Desktop\TightFlight v0.3.2 - Login\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.runtimeconfig.json
+C:\Users\Hidjou\Desktop\TightFlight v0.3.2 - Login\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.runtimeconfig.dev.json
+C:\Users\Hidjou\Desktop\TightFlight v0.3.2 - Login\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.dll
+C:\Users\Hidjou\Desktop\TightFlight v0.3.2 - Login\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.pdb
+C:\Users\Hidjou\Desktop\TightFlight v0.3.2 - Login\TightFlight\bin\Debug\netcoreapp2.0\FlightData.dll
+C:\Users\Hidjou\Desktop\TightFlight v0.3.2 - Login\TightFlight\bin\Debug\netcoreapp2.0\FlightServices.dll
+C:\Users\Hidjou\Desktop\TightFlight v0.3.2 - Login\TightFlight\bin\Debug\netcoreapp2.0\FlightData.pdb
+C:\Users\Hidjou\Desktop\TightFlight v0.3.2 - Login\TightFlight\bin\Debug\netcoreapp2.0\FlightServices.pdb
+C:\Users\Hidjou\Desktop\TightFlight v0.3.2 - Login\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.csprojResolveAssemblyReference.cache
+C:\Users\Hidjou\Desktop\TightFlight v0.3.2 - Login\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.csproj.CoreCompileInputs.cache
+C:\Users\Hidjou\Desktop\TightFlight v0.3.2 - Login\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.AssemblyInfoInputs.cache
+C:\Users\Hidjou\Desktop\TightFlight v0.3.2 - Login\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.AssemblyInfo.cs
+C:\Users\Hidjou\Desktop\TightFlight v0.3.2 - Login\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.dll
+C:\Users\Hidjou\Desktop\TightFlight v0.3.2 - Login\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.pdb
+C:\Users\hidjou\Desktop\TightFlight 0.3.2 - Test\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.deps.json
+C:\Users\hidjou\Desktop\TightFlight 0.3.2 - Test\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.runtimeconfig.json
+C:\Users\hidjou\Desktop\TightFlight 0.3.2 - Test\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.runtimeconfig.dev.json
+C:\Users\hidjou\Desktop\TightFlight 0.3.2 - Test\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.dll
+C:\Users\hidjou\Desktop\TightFlight 0.3.2 - Test\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.pdb
+C:\Users\hidjou\Desktop\TightFlight 0.3.2 - Test\TightFlight\bin\Debug\netcoreapp2.0\FlightData.dll
+C:\Users\hidjou\Desktop\TightFlight 0.3.2 - Test\TightFlight\bin\Debug\netcoreapp2.0\FlightServices.dll
+C:\Users\hidjou\Desktop\TightFlight 0.3.2 - Test\TightFlight\bin\Debug\netcoreapp2.0\FlightData.pdb
+C:\Users\hidjou\Desktop\TightFlight 0.3.2 - Test\TightFlight\bin\Debug\netcoreapp2.0\FlightServices.pdb
+C:\Users\hidjou\Desktop\TightFlight 0.3.2 - Test\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.csprojResolveAssemblyReference.cache
+C:\Users\hidjou\Desktop\TightFlight 0.3.2 - Test\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.csproj.CoreCompileInputs.cache
+C:\Users\hidjou\Desktop\TightFlight 0.3.2 - Test\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.AssemblyInfoInputs.cache
+C:\Users\hidjou\Desktop\TightFlight 0.3.2 - Test\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.AssemblyInfo.cs
+C:\Users\hidjou\Desktop\TightFlight 0.3.2 - Test\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.dll
+C:\Users\hidjou\Desktop\TightFlight 0.3.2 - Test\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.pdb
+C:\Users\gfxsr\Desktop\bestteam-Ahmed\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.deps.json
+C:\Users\gfxsr\Desktop\bestteam-Ahmed\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.runtimeconfig.json
+C:\Users\gfxsr\Desktop\bestteam-Ahmed\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.runtimeconfig.dev.json
+C:\Users\gfxsr\Desktop\bestteam-Ahmed\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.dll
+C:\Users\gfxsr\Desktop\bestteam-Ahmed\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.pdb
+C:\Users\gfxsr\Desktop\bestteam-Ahmed\TightFlight\bin\Debug\netcoreapp2.0\FlightData.dll
+C:\Users\gfxsr\Desktop\bestteam-Ahmed\TightFlight\bin\Debug\netcoreapp2.0\FlightServices.dll
+C:\Users\gfxsr\Desktop\bestteam-Ahmed\TightFlight\bin\Debug\netcoreapp2.0\FlightData.pdb
+C:\Users\gfxsr\Desktop\bestteam-Ahmed\TightFlight\bin\Debug\netcoreapp2.0\FlightServices.pdb
+C:\Users\gfxsr\Desktop\bestteam-Ahmed\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.csprojResolveAssemblyReference.cache
+C:\Users\gfxsr\Desktop\bestteam-Ahmed\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.csproj.CoreCompileInputs.cache
+C:\Users\gfxsr\Desktop\bestteam-Ahmed\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.AssemblyInfoInputs.cache
+C:\Users\gfxsr\Desktop\bestteam-Ahmed\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.AssemblyInfo.cs
+C:\Users\gfxsr\Desktop\bestteam-Ahmed\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.dll
+C:\Users\gfxsr\Desktop\bestteam-Ahmed\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.pdb
+C:\Users\Hidjou\Desktop\TightFlight v0.3.7 - Fixed\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.deps.json
+C:\Users\Hidjou\Desktop\TightFlight v0.3.7 - Fixed\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.runtimeconfig.json
+C:\Users\Hidjou\Desktop\TightFlight v0.3.7 - Fixed\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.runtimeconfig.dev.json
+C:\Users\Hidjou\Desktop\TightFlight v0.3.7 - Fixed\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.dll
+C:\Users\Hidjou\Desktop\TightFlight v0.3.7 - Fixed\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.pdb
+C:\Users\Hidjou\Desktop\TightFlight v0.3.7 - Fixed\TightFlight\bin\Debug\netcoreapp2.0\FlightData.dll
+C:\Users\Hidjou\Desktop\TightFlight v0.3.7 - Fixed\TightFlight\bin\Debug\netcoreapp2.0\FlightServices.dll
+C:\Users\Hidjou\Desktop\TightFlight v0.3.7 - Fixed\TightFlight\bin\Debug\netcoreapp2.0\FlightData.pdb
+C:\Users\Hidjou\Desktop\TightFlight v0.3.7 - Fixed\TightFlight\bin\Debug\netcoreapp2.0\FlightServices.pdb
+C:\Users\Hidjou\Desktop\TightFlight v0.3.7 - Fixed\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.csprojResolveAssemblyReference.cache
+C:\Users\Hidjou\Desktop\TightFlight v0.3.7 - Fixed\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.csproj.CoreCompileInputs.cache
+C:\Users\Hidjou\Desktop\TightFlight v0.3.7 - Fixed\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.AssemblyInfoInputs.cache
+C:\Users\Hidjou\Desktop\TightFlight v0.3.7 - Fixed\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.AssemblyInfo.cs
+C:\Users\Hidjou\Desktop\TightFlight v0.3.7 - Fixed\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.dll
+C:\Users\Hidjou\Desktop\TightFlight v0.3.7 - Fixed\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.pdb
+C:\Users\Hidjou\Desktop\TightFlight v0.4 - Login and Flights\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.deps.json
+C:\Users\Hidjou\Desktop\TightFlight v0.4 - Login and Flights\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.runtimeconfig.json
+C:\Users\Hidjou\Desktop\TightFlight v0.4 - Login and Flights\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.runtimeconfig.dev.json
+C:\Users\Hidjou\Desktop\TightFlight v0.4 - Login and Flights\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.dll
+C:\Users\Hidjou\Desktop\TightFlight v0.4 - Login and Flights\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.pdb
+C:\Users\Hidjou\Desktop\TightFlight v0.4 - Login and Flights\TightFlight\bin\Debug\netcoreapp2.0\FlightData.dll
+C:\Users\Hidjou\Desktop\TightFlight v0.4 - Login and Flights\TightFlight\bin\Debug\netcoreapp2.0\FlightServices.dll
+C:\Users\Hidjou\Desktop\TightFlight v0.4 - Login and Flights\TightFlight\bin\Debug\netcoreapp2.0\FlightData.pdb
+C:\Users\Hidjou\Desktop\TightFlight v0.4 - Login and Flights\TightFlight\bin\Debug\netcoreapp2.0\FlightServices.pdb
+C:\Users\Hidjou\Desktop\TightFlight v0.4 - Login and Flights\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.csprojResolveAssemblyReference.cache
+C:\Users\Hidjou\Desktop\TightFlight v0.4 - Login and Flights\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.csproj.CoreCompileInputs.cache
+C:\Users\Hidjou\Desktop\TightFlight v0.4 - Login and Flights\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.AssemblyInfoInputs.cache
+C:\Users\Hidjou\Desktop\TightFlight v0.4 - Login and Flights\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.AssemblyInfo.cs
+C:\Users\Hidjou\Desktop\TightFlight v0.4 - Login and Flights\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.dll
+C:\Users\Hidjou\Desktop\TightFlight v0.4 - Login and Flights\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.pdb
+C:\Users\hidjou\Desktop\TightFlight v0.4.0 Flight Employee\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.deps.json
+C:\Users\hidjou\Desktop\TightFlight v0.4.0 Flight Employee\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.runtimeconfig.json
+C:\Users\hidjou\Desktop\TightFlight v0.4.0 Flight Employee\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.runtimeconfig.dev.json
+C:\Users\hidjou\Desktop\TightFlight v0.4.0 Flight Employee\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.dll
+C:\Users\hidjou\Desktop\TightFlight v0.4.0 Flight Employee\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.pdb
+C:\Users\hidjou\Desktop\TightFlight v0.4.0 Flight Employee\TightFlight\bin\Debug\netcoreapp2.0\FlightData.dll
+C:\Users\hidjou\Desktop\TightFlight v0.4.0 Flight Employee\TightFlight\bin\Debug\netcoreapp2.0\FlightServices.dll
+C:\Users\hidjou\Desktop\TightFlight v0.4.0 Flight Employee\TightFlight\bin\Debug\netcoreapp2.0\FlightData.pdb
+C:\Users\hidjou\Desktop\TightFlight v0.4.0 Flight Employee\TightFlight\bin\Debug\netcoreapp2.0\FlightServices.pdb
+C:\Users\hidjou\Desktop\TightFlight v0.4.0 Flight Employee\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.csprojResolveAssemblyReference.cache
+C:\Users\hidjou\Desktop\TightFlight v0.4.0 Flight Employee\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.csproj.CoreCompileInputs.cache
+C:\Users\hidjou\Desktop\TightFlight v0.4.0 Flight Employee\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.AssemblyInfoInputs.cache
+C:\Users\hidjou\Desktop\TightFlight v0.4.0 Flight Employee\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.AssemblyInfo.cs
+C:\Users\hidjou\Desktop\TightFlight v0.4.0 Flight Employee\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.dll
+C:\Users\hidjou\Desktop\TightFlight v0.4.0 Flight Employee\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.pdb
+C:\Users\Hidjou\Desktop\TightFlight v0.4.1 Flight Employee\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.deps.json
+C:\Users\Hidjou\Desktop\TightFlight v0.4.1 Flight Employee\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.runtimeconfig.json
+C:\Users\Hidjou\Desktop\TightFlight v0.4.1 Flight Employee\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.runtimeconfig.dev.json
+C:\Users\Hidjou\Desktop\TightFlight v0.4.1 Flight Employee\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.dll
+C:\Users\Hidjou\Desktop\TightFlight v0.4.1 Flight Employee\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.pdb
+C:\Users\Hidjou\Desktop\TightFlight v0.4.1 Flight Employee\TightFlight\bin\Debug\netcoreapp2.0\FlightData.dll
+C:\Users\Hidjou\Desktop\TightFlight v0.4.1 Flight Employee\TightFlight\bin\Debug\netcoreapp2.0\FlightServices.dll
+C:\Users\Hidjou\Desktop\TightFlight v0.4.1 Flight Employee\TightFlight\bin\Debug\netcoreapp2.0\FlightData.pdb
+C:\Users\Hidjou\Desktop\TightFlight v0.4.1 Flight Employee\TightFlight\bin\Debug\netcoreapp2.0\FlightServices.pdb
+C:\Users\Hidjou\Desktop\TightFlight v0.4.1 Flight Employee\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.csprojResolveAssemblyReference.cache
+C:\Users\Hidjou\Desktop\TightFlight v0.4.1 Flight Employee\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.csproj.CoreCompileInputs.cache
+C:\Users\Hidjou\Desktop\TightFlight v0.4.1 Flight Employee\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.AssemblyInfoInputs.cache
+C:\Users\Hidjou\Desktop\TightFlight v0.4.1 Flight Employee\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.AssemblyInfo.cs
+C:\Users\Hidjou\Desktop\TightFlight v0.4.1 Flight Employee\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.dll
+C:\Users\Hidjou\Desktop\TightFlight v0.4.1 Flight Employee\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.pdb
+C:\Users\Hidjou\Desktop\TightFlight v0.4.2 - styling\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.deps.json
+C:\Users\Hidjou\Desktop\TightFlight v0.4.2 - styling\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.runtimeconfig.json
+C:\Users\Hidjou\Desktop\TightFlight v0.4.2 - styling\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.runtimeconfig.dev.json
+C:\Users\Hidjou\Desktop\TightFlight v0.4.2 - styling\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.dll
+C:\Users\Hidjou\Desktop\TightFlight v0.4.2 - styling\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.pdb
+C:\Users\Hidjou\Desktop\TightFlight v0.4.2 - styling\TightFlight\bin\Debug\netcoreapp2.0\FlightData.dll
+C:\Users\Hidjou\Desktop\TightFlight v0.4.2 - styling\TightFlight\bin\Debug\netcoreapp2.0\FlightServices.dll
+C:\Users\Hidjou\Desktop\TightFlight v0.4.2 - styling\TightFlight\bin\Debug\netcoreapp2.0\FlightData.pdb
+C:\Users\Hidjou\Desktop\TightFlight v0.4.2 - styling\TightFlight\bin\Debug\netcoreapp2.0\FlightServices.pdb
+C:\Users\Hidjou\Desktop\TightFlight v0.4.2 - styling\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.csprojResolveAssemblyReference.cache
+C:\Users\Hidjou\Desktop\TightFlight v0.4.2 - styling\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.csproj.CoreCompileInputs.cache
+C:\Users\Hidjou\Desktop\TightFlight v0.4.2 - styling\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.AssemblyInfoInputs.cache
+C:\Users\Hidjou\Desktop\TightFlight v0.4.2 - styling\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.AssemblyInfo.cs
+C:\Users\Hidjou\Desktop\TightFlight v0.4.2 - styling\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.dll
+C:\Users\Hidjou\Desktop\TightFlight v0.4.2 - styling\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.pdb
+C:\Users\Hidjou\Desktop\TightFlight v0.5.0 - Hangfire\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.deps.json
+C:\Users\Hidjou\Desktop\TightFlight v0.5.0 - Hangfire\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.runtimeconfig.json
+C:\Users\Hidjou\Desktop\TightFlight v0.5.0 - Hangfire\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.runtimeconfig.dev.json
+C:\Users\Hidjou\Desktop\TightFlight v0.5.0 - Hangfire\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.dll
+C:\Users\Hidjou\Desktop\TightFlight v0.5.0 - Hangfire\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.pdb
+C:\Users\Hidjou\Desktop\TightFlight v0.5.0 - Hangfire\TightFlight\bin\Debug\netcoreapp2.0\FlightData.dll
+C:\Users\Hidjou\Desktop\TightFlight v0.5.0 - Hangfire\TightFlight\bin\Debug\netcoreapp2.0\FlightServices.dll
+C:\Users\Hidjou\Desktop\TightFlight v0.5.0 - Hangfire\TightFlight\bin\Debug\netcoreapp2.0\FlightData.pdb
+C:\Users\Hidjou\Desktop\TightFlight v0.5.0 - Hangfire\TightFlight\bin\Debug\netcoreapp2.0\FlightServices.pdb
+C:\Users\Hidjou\Desktop\TightFlight v0.5.0 - Hangfire\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.csprojResolveAssemblyReference.cache
+C:\Users\Hidjou\Desktop\TightFlight v0.5.0 - Hangfire\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.csproj.CoreCompileInputs.cache
+C:\Users\Hidjou\Desktop\TightFlight v0.5.0 - Hangfire\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.AssemblyInfoInputs.cache
+C:\Users\Hidjou\Desktop\TightFlight v0.5.0 - Hangfire\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.AssemblyInfo.cs
+C:\Users\Hidjou\Desktop\TightFlight v0.5.0 - Hangfire\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.dll
+C:\Users\Hidjou\Desktop\TightFlight v0.5.0 - Hangfire\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.pdb
+C:\Users\Hidjou\Desktop\TightFlight v0.6.1 - Booking\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.deps.json
+C:\Users\Hidjou\Desktop\TightFlight v0.6.1 - Booking\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.runtimeconfig.json
+C:\Users\Hidjou\Desktop\TightFlight v0.6.1 - Booking\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.runtimeconfig.dev.json
+C:\Users\Hidjou\Desktop\TightFlight v0.6.1 - Booking\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.dll
+C:\Users\Hidjou\Desktop\TightFlight v0.6.1 - Booking\TightFlight\bin\Debug\netcoreapp2.0\TightFlight.pdb
+C:\Users\Hidjou\Desktop\TightFlight v0.6.1 - Booking\TightFlight\bin\Debug\netcoreapp2.0\FlightData.dll
+C:\Users\Hidjou\Desktop\TightFlight v0.6.1 - Booking\TightFlight\bin\Debug\netcoreapp2.0\FlightServices.dll
+C:\Users\Hidjou\Desktop\TightFlight v0.6.1 - Booking\TightFlight\bin\Debug\netcoreapp2.0\FlightData.pdb
+C:\Users\Hidjou\Desktop\TightFlight v0.6.1 - Booking\TightFlight\bin\Debug\netcoreapp2.0\FlightServices.pdb
+C:\Users\Hidjou\Desktop\TightFlight v0.6.1 - Booking\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.csprojResolveAssemblyReference.cache
+C:\Users\Hidjou\Desktop\TightFlight v0.6.1 - Booking\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.csproj.CoreCompileInputs.cache
+C:\Users\Hidjou\Desktop\TightFlight v0.6.1 - Booking\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.AssemblyInfoInputs.cache
+C:\Users\Hidjou\Desktop\TightFlight v0.6.1 - Booking\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.AssemblyInfo.cs
+C:\Users\Hidjou\Desktop\TightFlight v0.6.1 - Booking\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.dll
+C:\Users\Hidjou\Desktop\TightFlight v0.6.1 - Booking\TightFlight\obj\Debug\netcoreapp2.0\TightFlight.pdb
